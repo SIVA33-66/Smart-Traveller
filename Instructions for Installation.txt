@@ -1,0 +1,18 @@
+Setting Up the Flutter Project in Android Studio
+
+Step 1: Download and Install Android Studio.
+        (i) Visit the official Android Studio website and download the latest version for your operating system.
+        (ii) Once downloaded, extract the installer package and complete the installation process.
+
+Step 2: Import the Provided Flutter Project
+        (i) Launch Android Studio.
+        (ii) On the welcome screen, click "Open an Existing Project."
+        (iii) Navigate to the Flutter project folder that was provided and select it.
+
+Step 3: Locate and Open the Source Directory
+        (i) In Android Studio, allow the project to finish syncing.
+        (ii) In the Project panel, navigate to the  directory where the main source files are located (typically containing ).
+
+Step 4: Run the App on a Simulator or Connected Device
+        (i) Choose a connected device or start an Android emulator using the Device Selector at the top of the screen.
+        (ii) Click the green Run button (▶️) or use  to build and launch the app.
